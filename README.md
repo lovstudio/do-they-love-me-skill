@@ -1,6 +1,6 @@
 # lov-do-they-love-me
 
-![Version](https://img.shields.io/badge/version-0.2.0-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
 
 把两个人的微信私聊做成有证据的恋爱指数分析：量化互动节奏，用本地模型把消息分成
 工作／情感／生活三类，最后产出一张手机竖版信息图。结论必须带口径与误差，
@@ -9,7 +9,7 @@
 ## 安装
 
 ```bash
-npx skills add lov-do-they-love-me -g -y
+npx lovstudio skills add do-they-love-me -g -y
 ```
 
 ## 从源码安装（维护者）
